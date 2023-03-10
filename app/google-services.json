@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971729446317",
+    "project_id": "rentalhome-75c1a",
+    "storage_bucket": "rentalhome-75c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971729446317:android:27974977ea35bc4c46ad24",
+        "android_client_info": {
+          "package_name": "com.example.rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971729446317-2pemikphn9rr6v6qq286dj9dhg7or6a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXEXG4gh56naD_7hid1b3HXou-wcaGxCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971729446317-2pemikphn9rr6v6qq286dj9dhg7or6a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

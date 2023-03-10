@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:id="@+id/lists_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="92dp"
+        android:layout_marginEnd="92dp"
+        android:text="House lists"
+        android:textColor="@color/dark_orange"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="286dp"
+        android:layout_marginBottom="440dp"
+        android:text="Description"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home2"
+        android:layout_width="167dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="234dp"
+        android:layout_marginBottom="398dp"
+        android:text="2 Bedroom and
+        2 bathroom 250"
+        android:textColor="@color/dark_orange"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="321dp"
+        android:layout_marginBottom="372dp"
+        android:text="Ethiopia"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buu1"
+        android:layout_width="143dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="259dp"
+        android:layout_marginBottom="333dp"
+        android:backgroundTint="@color/black"
+        android:text="Apply" />
+
+
+    <TextView
+        android:id="@+id/lists_home4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="70dp"
+        android:layout_marginBottom="439dp"
+        android:text="Description"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home5"
+        android:layout_width="167dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="398dp"
+        android:textColor="@color/dark_orange"
+        android:text="2 Bedroom and
+        2 bathroom 250"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="74dp"
+        android:layout_marginBottom="375dp"
+        android:text="Ethiopia"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buu2"
+        android:layout_width="143dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="331dp"
+        android:backgroundTint="@color/black"
+        android:text="Apply" />
+
+    <TextView
+        android:id="@+id/lists_home7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="293dp"
+        android:layout_marginBottom="105dp"
+        android:text="Description"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home8"
+        android:layout_width="167dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="240dp"
+        android:layout_marginBottom="55dp"
+        android:textColor="@color/dark_orange"
+        android:text="2 Bedroom and
+        2 bathroom 250"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="330dp"
+        android:layout_marginBottom="30dp"
+        android:text="Ethiopia"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/buu3"
+        android:layout_width="143dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="261dp"
+        android:layout_marginBottom="-2dp"
+        android:backgroundTint="@color/black"
+        android:text="Apply" />
+
+    <TextView
+        android:id="@+id/lists_home11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="77dp"
+        android:layout_marginBottom="99dp"
+        android:text="Description"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lists_home21"
+        android:layout_width="167dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="53dp"
+        android:textColor="@color/dark_orange"
+        android:text="2 Bedroom and
+        2 bathroom 250"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/lists_home31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="71dp"
+        android:layout_marginBottom="29dp"
+        android:text="Ethiopia"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buu4"
+        android:layout_width="143dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="29dp"
+        android:layout_marginBottom="-1dp"
+        android:backgroundTint="@color/black"
+        android:text="Apply" />
+
+    <ImageView
+        android:id="@+id/imageViews3"
+        android:layout_width="185dp"
+        android:layout_height="185dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="408dp"
+        android:layout_marginEnd="219dp"
+        android:layout_marginBottom="123dp"
+        android:background="@drawable/bg_search"
+        android:scaleType="centerCrop"
+        android:src="@drawable/home7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageViews4"
+        android:layout_width="185dp"
+        android:layout_height="185dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="408dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="123dp"
+        android:background="@drawable/bg_search"
+        android:scaleType="centerCrop"
+        android:src="@drawable/home7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent" />
+
+
+    <ImageView
+        android:id="@+id/imageViews2"
+        android:layout_width="185dp"
+        android:layout_height="185dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="471dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/home7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageViews1"
+        android:layout_width="185dp"
+        android:layout_height="185dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="75dp"
+        android:layout_marginEnd="219dp"
+        android:layout_marginBottom="123dp"
+        android:background="@drawable/bg_search"
+        android:scaleType="centerCrop"
+        android:src="@drawable/home7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent" />
+
+</RelativeLayout>
